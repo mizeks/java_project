@@ -1,0 +1,19 @@
+task1: https://app.box.com/s/r53x5j2iedd84uc6q693j0k2b371ptb7
+task2: https://app.box.com/s/5k5kuq2ivajpozuy7lbl58srfxh8yicy
+
+
+// 32-64
+task 3: 
+cd C:\Program Files (x86)\Microsoft Office\Office16
+cscript OSPP.VBS /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
+cscript OSPP.VBS /sethst:kms.digiboy.ir
+cscript OSPP.VBS /act
+cscript OSPP.VBS /dstatus
+
+// 32-32
+task 4: 
+cd C:\Program Files\Microsoft Office\Office16
+cscript OSPP.VBS /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
+cscript OSPP.VBS /sethst:kms.digiboy.ir
+cscript OSPP.VBS /act
+cscript OSPP.VBS /dstatus
